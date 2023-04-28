@@ -19,7 +19,7 @@ namespace Microsoft.Management.Infrastructure.CimCmdlets
         /// <summary>
         /// Initializes a new instance of the <see cref="CimGetCimClassContext"/> class.
         /// </summary>
-        /// <param name="methodName"></param>
+        /// <param name="methodDescription"></param>
         /// <param name="propertyName"></param>
         /// <param name="qualifierName"></param>
         internal CimGetCimClassContext(
